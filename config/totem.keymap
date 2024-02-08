@@ -82,7 +82,7 @@ label= "BASE"                              ;
                 &kp Q       &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &kp O       &kp P
                 &kp A       &kp S       &kp D       &kp F       &kp G           &kp H       &kp J       &kp K       &kp L       &kp SEMI
     &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &kp SLASH    &kp ENTER
-                                        &kp CAPS    &kp LGUI    &kp SPACE       &mo NAV     &mo SYM    &kp BSPC 
+                                        &kp CAPS    &kp LGUI    &kp SPACE       &mo NAV     &mo SYM     &kp BSPC 
                         >;
                 };
 
@@ -132,8 +132,8 @@ label= "SYM"                               ;
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
                 &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PRCNT       &kp CARET   &kp AMPS    &kp KP_MULTIPLY   &kp MINUS     &kp KP_PLUS       
-                &kp GRAVE   &kp SLASH      &kp W      &trans      &trans          &kp C_MUTE  &kp LS(RA(N4)) &kp RA(N5)   &kp PIPE   &kp BSLH 
-    &kp TAB     &trans      &trans      &trans      &trans      &trans          &kp C_VOL_DN &kp C_VOL_UP &kp C_PREV &kp C_NEXT  &trans   &kp LGUI         
+                &kp GRAVE   &kp SLASH   &kp W       &trans      &trans        &kp C_MUTE  &kp LS(RA(N4)) &kp RA(N5)   &kp PIPE      &kp BSLH 
+    &kp TAB     &trans      &trans      &trans      &trans      &trans          &kp C_VOL_DN &kp C_VOL_UP &kp C_PREV &kp  C_NEXT        &kp SLASH   &kp LGUI         
                                         &trans      &trans      &mo ADJ         &kp LSHFT       &trans    &trans      
                         >;
                 };
